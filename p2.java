@@ -1,3 +1,7 @@
+/*
+Write a program that calculate percentage marks of the student if marks of 6 subjects are given
+*/
+
 import java.util.Scanner;
 
 public class p2 {

@@ -1,3 +1,7 @@
+/*
+Write a program to enter two numbers and perform mathematical operations on them.
+*/
+
 import java.util.Scanner;
 
 public class p3 {

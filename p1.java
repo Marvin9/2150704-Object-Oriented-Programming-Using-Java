@@ -1,3 +1,7 @@
+/*
+Write a program to convert rupees to dollar. 60 rupees=1 dollar
+*/
+
 import java.util.Scanner;
 
 public class p1 {
